@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> :bookmark: GitHub Analysis</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rach-tairum&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rach-tairum" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rach-tairum&show_icons=true&locale=en&theme=dracula" alt="rach-tairum" /></p>
+
+<h3> :bookmark: GitHub Analytics</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rach-Tairum&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&dates=8C7BDD)](https://git.io/streak-stats)
